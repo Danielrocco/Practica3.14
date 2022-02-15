@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+span.dos {
+   text-align: left; 
+}
+
+span.tres {
+    text-decoration: underline;
+}
+
+input.verde {
+    background-color: greenyellow;
+}
+
+input.naranja {
+    background-color: orange;
+}
